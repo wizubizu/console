@@ -796,6 +796,15 @@
     height: 610px;
   }
 
+  .__boossi {
+    padding: 12px 25px;
+  }
+
+  .__votecard {
+    box-shadow: 0 0px 8px 0 rgba(30, 119, 225, 0.18);
+    height: 135px;
+  }
+
 
 
 
@@ -853,6 +862,10 @@
 
   .__footer{
     text-align: center;
+  }
+
+  .__votecard {
+    height: 100%;
   }
 
  
@@ -940,6 +953,32 @@
 
   .__footer{
     text-align: center;
+  }
+
+  .__votecard {
+    height: 100%;
+  }
+
+  .__activecamp {
+    font-size: 20px;
+    width: 100%;
+    margin-top: -33px;
+  }
+
+  .__boossi {
+    padding: 12px 23px;
+  }
+
+  .__loginlabel {
+    font-size: 30px;
+  }
+
+  .__voteborderp {
+    font-size: 20px;
+  }
+
+  .__voteborderpa {
+    font-size: 20px;
   }
   
 

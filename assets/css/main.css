@@ -930,6 +930,8 @@ a:focus, a:hover {
     margin-bottom: 0;
     padding: 3px;
     text-align: center;
+    margin:0 auto;
+    width: 227px;
 }
 
 .__votep{
